@@ -1,5 +1,7 @@
-favicon: null
-name: Melanie
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -19,18 +21,16 @@ collections:
 purpose: []
 color:
   saturation: 0
-  lightness: 1
   brandStrength: 1
+  lightness: 1
   brandColors:
     - '#000000'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.349624
 typography_spectrum: 0.8823845
 layout_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Melanie
