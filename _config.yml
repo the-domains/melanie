@@ -1,28 +1,40 @@
-name: Melanie
 favicon: null
-layout_spectrum: 0.04738168092444539
-typography_spectrum: 0.8643974813167006
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Melanie
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.10563322226516902
-  lightness: 0.25972829735837877
-  saturation: 0.8902437575161457
-  rhythmicContrast: 0.49244500836357474
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#D8F2FF'
+    - '#0A0D17'
+    - '#A5C5D0'
+    - '#38BCB4'
+    - '#BD6C78'
+  rhythmicContrast: 0
+typography_spectrum: 0.8823845
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3560687
+analytics:
+  twitter: null
+  google: null
+  facebook: null
