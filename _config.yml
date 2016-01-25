@@ -1,0 +1,28 @@
+name: Melanie
+favicon: null
+layout_spectrum: 0.04738168092444539
+typography_spectrum: 0.8643974813167006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.10563322226516902
+  lightness: 0.25972829735837877
+  saturation: 0.8902437575161457
+  rhythmicContrast: 0.49244500836357474
+purpose: []
