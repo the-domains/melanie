@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Melanie]]></title>
+        <description><![CDATA[Melanie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 17:00:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I seek to be a master. This is not an easy thing to say, because it comes with the responsibilities of throwing one's hat into the proverbial ring. It is standing up to be counted, even while recognizing that this action itself will make me a target.  But I must.  </p>]]></description>
+            <link>undefinedc6327e5c-7500-4a0f-9cea-55f9283ee67f/index.html</link>
+            <guid isPermaLink="false">c6327e5c-7500-4a0f-9cea-55f9283ee67f</guid>
+            <pubDate>Mon, 25 Jan 2016 17:00:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
